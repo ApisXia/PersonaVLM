@@ -216,3 +216,7 @@ __marimo__/
 configs/base_config.yaml
 data/
 out
+
+# Mac OS X metadata files
+._*
+.DS_Store
