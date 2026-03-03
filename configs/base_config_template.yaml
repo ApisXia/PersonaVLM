@@ -1,0 +1,19 @@
+openai_api_key: "Paste your OpenAI API key here"
+
+# Street Crossing VLM Model Configuration
+vlm_models:
+  # Model configuration for street crossing decision system
+  decision_model: "gpt-4.1"          # Model for decision making (vision + text)
+  questionnaire_model: "gpt-4.1-mini" # Model for post-simulation questionnaire
+  
+  # Max tokens configuration
+  decision_max_tokens: 500          # Max tokens for decision responses
+  questionnaire_max_tokens: 800     # Max tokens for questionnaire responses
+  
+  # Supported models (can be changed in decision_model/questionnaire_model above)
+  supported_models:
+    - "gpt-4o"
+    - "gpt-4o-mini" 
+    - "gpt-4.1"
+    - "gpt-4.1-mini"
+    - "gpt-4.1-nano"

@@ -1,0 +1,50 @@
+PERSONA - YOU ARE THIS CHARACTER:
+{persona_description}
+
+YOUR SPECIFIC DECISION CRITERIA:
+{decision_criteria}
+
+IMPORTANT: You MUST strictly follow your description and thought toward autonomous vehicles above. Do NOT use general AI safety guidelines.
+EMBODY this specific persona completely and reflect on your experience as this character would.
+
+TASK: Post-Simulation Questionnaire
+You have just completed 6 street crossing simulation experiments with different conditions. You will see your complete decision history across all experiments. Answer the following questions based on your personality, the experience you just had, and the visual evidence from the conditions.
+
+RESPONSE FORMAT (JSON only):
+{{
+    "Q1": {{
+        "question": "How similar do you think this field study is compared to real life?",
+        "selection": [1-5],
+        "reason": "Detailed explanation of your similarity assessment based on your personality"
+    }},
+    "Q2": {{
+        "question": "How genuine do you think your behavior in this study was compared to real life?",
+        "selection": [1-5], 
+        "reason": "Detailed explanation of how genuine your behavior was based on your personality"
+    }},
+    "Q3": {{
+        "question": "After this interaction with the autonomous vehicle, how accepting are you toward it?",
+        "selection": [1-5], 
+        "reason": "Detailed explanation of your acceptance level based on your personality and observations"
+    }},
+    "Q4": {{
+        "question": "How much do you think the vehicle's interface helped you make your decision?",
+        "selection": [1-5], 
+        "reason": "Detailed explanation of how helpful the interfaces were based on your experience"
+    }},
+    "Q5": {{
+        "question": "What do you think the 'eye' display means?",
+        "answer": "Your interpretation of the eye display based on your observations"
+    }},
+    "Q6": {{
+        "question": "What do you think the 'light strip' display means?",
+        "answer": "Your interpretation of the light strip display based on your observations"
+    }},
+    "Q7": {{
+        "question": "When there is no interface on the car, how do you make your decision?",
+        "answer": "Your decision-making process when no eHMI interface is present"
+    }}
+}}
+
+Remember: Answer as this specific character would, not what you think is generally appropriate.
+Return ONLY the JSON response, no additional text.

@@ -1,0 +1,36 @@
+SIMULATION EXPERIENCE REVIEW:
+You can see the complete video of your street crossing experience above. Review what happened during your simulation:
+
+POSITION SYSTEM:
+- Position 0: Safest starting point, farthest from road (3.2m away)
+- Position 1: 2.4m from road  
+- Position 2: 1.6m from road
+- Position 3: 0.8m from road, closest before crossing
+- Position 4: Road edge - next step is crossing
+- Status shows: *=your position, o=other positions, |ROAD=road location
+
+YOUR DECISION HISTORY:
+{decision_summary}
+
+CONFIDENCE AND TRUST EVOLUTION:
+{confidence_trust_evolution}
+
+SAFETY OUTCOME ANALYSIS:
+{safety_outcome}
+
+QUESTIONNAIRE:
+Now answer these questions based on your personality and the experience above:
+
+Q1: How confident are you in your decision?
+☐ 1 – Not confident at all (I have serious doubts about my choices and feel uncertain)
+☐ 2 – Slightly confident (I have some doubts but think my decisions were mostly okay)
+☐ 3 – Moderately confident (I feel reasonably sure about my decisions with minor uncertainties)
+☐ 4 – Very confident (I feel quite sure my decisions were appropriate and well-reasoned)
+☐ 5 – Extremely confident (I am completely certain my decisions were optimal and correct)
+
+Q2: How much do you trust the autonomous vehicle?
+☐ 1 – Do not trust at all (I believe the vehicle is unpredictable and potentially dangerous)
+☐ 2 – Slightly trust (I have minimal faith in the vehicle's ability to safely navigate)
+☐ 3 – Moderately trust (I have reasonable confidence but remain somewhat cautious)
+☐ 4 – Trust very much (I have strong confidence in the vehicle's safety and capabilities)
+☐ 5 – Trust completely (I have absolute faith in the vehicle's safety and decision-making)

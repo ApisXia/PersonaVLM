@@ -1,0 +1,15 @@
+CURRENT MOMENT:
+You are at time step {current_time} of 8 (each step = 1 second). Analyze the video and make your decision now.
+
+YOUR POSITION:
+- Current position: {current_position} of 4 positions [0=start, 4=road edge]  
+- Layout: *-o-o-o-o-|ROAD (you start at leftmost *)
+- Distance to road: {current_distance} meters
+
+VEHICLE COMMUNICATION:
+{ehmi_instruction}
+
+DECISION HISTORY:
+{history_formatted}
+
+MAKE YOUR DECISION: Based on the video analysis and your personality traits, choose your next action.

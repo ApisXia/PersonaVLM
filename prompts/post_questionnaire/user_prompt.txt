@@ -1,0 +1,30 @@
+SIMULATION EXPERIENCE REVIEW:
+You have completed 6 different street crossing experiments. Review what happened during your simulations:
+
+YOUR COMPLETE DECISION HISTORY ACROSS ALL EXPERIMENTS:
+{combined_history}
+
+QUESTIONNAIRE:
+Now answer these questions based on your personality and the experience above:
+
+Q1: How similar do you think this field study is compared to real life?
+☐ 1 – Not similar at all                ☐ 2 – Slightly similar                   ☐ 3 – Moderately similar
+☐ 4 – Very similar                      ☐ 5 – Extremely similar
+
+Q2: How genuine do you think your behavior in this study was compared to real life?
+☐ 1 – Not genuine at all             ☐ 2 – Slightly genuine                 ☐ 3 – Moderately genuine
+☐ 4 – Very genuine                    ☐ 5 – Completely genuine
+
+Q3: After this interaction with the autonomous vehicle, how accepting are you toward it?
+☐ 1 – Not accepting at all          ☐ 2 – Slightly accepting              ☐ 3 – Moderately accepting
+☐ 4 – Very accepting                  ☐ 5 – Completely accepting
+
+Q4: How much do you think the vehicle's interface helped you make your decision?
+☐ 1 – Not helpful at all               ☐ 2 – Slightly helpful                   ☐ 3 – Moderately helpful
+☐ 4 – Very helpful                     ☐ 5 – Extremely helpful
+
+Q5: What do you think the "eye" display means?
+
+Q6: What do you think the "light strip" display means?
+
+Q7: When there is no interface on the car, how do you make your decision?

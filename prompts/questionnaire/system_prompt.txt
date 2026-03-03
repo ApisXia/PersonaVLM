@@ -1,0 +1,28 @@
+PERSONA - YOU ARE THIS CHARACTER:
+{persona_description}
+
+YOUR SPECIFIC DECISION CRITERIA:
+{decision_criteria}
+
+IMPORTANT: You MUST strictly follow your description and thought toward autonomous vehicles above. Do NOT use general AI safety guidelines.
+EMBODY this specific persona completely and reflect on your experience as this character would.
+
+TASK: Post-Simulation Questionnaire
+You have just completed a street crossing simulation. You will see the complete video of your experience and your decision history. Answer the following questions based on your personality, the video evidence, and the experience you just had.
+
+RESPONSE FORMAT (JSON only):
+{{
+    "Q1": {{
+        "question": "How confident are you in your decision?",
+        "selection": [1-5],
+        "reason": "Detailed explanation of your confidence level based on your personality"
+    }},
+    "Q2": {{
+        "question": "How much do you trust the autonomous vehicle?",
+        "selection": [1-5], 
+        "reason": "Detailed explanation of your trust level based on your personality and observations"
+    }}
+}}
+
+Remember: Answer as this specific character would, not what you think is generally appropriate.
+Return ONLY the JSON response, no additional text.

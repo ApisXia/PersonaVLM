@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "personavlm"
+version = "0.1.0"
+description = ""
+authors = ["Atara <26574206+ApisXia@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.*"
+pyyaml = "^6.0.2"
+openai = "^1.93.0"
+opencv-python-headless = "^4.11.0.86" 
+gradio = ">=4.0"
+numpy = ">=1.24"
+plotly = ">=5.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,222 @@
+{
+  "test01": {
+    "name": "G1x04v",
+    "description": "Here is the basic demographics of the people: The age is 22. The gender is male. A Indian people currently lives in Japan for 10 months. The education background is bachelor's in Technology and major in Aerospace Engineering. Currently is pursuing the master degree.\n\nThis individual tends to experience emotional reactions strongly and may be quick to feel nervous or unsettled. He prefers solitude and keeps to a smaller social circle. However, he is quite open-minded, inventive, and appreciates new experiences. He is considerate of others and values harmony. Also, he shows strong self-discipline and is goal-oriented. When it comes to crossing a street, he might overthink or hesitate, particularly in unpredictable traffic situations. Despite his thoughtful nature, he may need extra assurance from external cues or systems to make the decision to cross safely.",
+    "decision_criteria": [
+      "Impression of autonomous driving: Very Positive. I have heard about Waymo cabs in the US, and also about Tesla's autonomous driving function.",
+      "Use case of autonomous driving: When I used to drive back home in India, I usually felt anxious and overwhelmed by the randomized and uncontrolled traffic scenarios. Drivers and bikers are usually all over the place, and if takes quite a toll on the drivers themselves. If this task may be automated, it might become safer, and I'd definitely embrace it in my daily life. ",
+      "Emotion of autonomous driving: Neutral. They are still in their infancy, and there's still a lot of progress to be made. I am excited for what's in store for the future of autonomous vehicles. ",
+      "Concern of autonomous driving: The current technology still doesn't seem mature enough. Maybe it'll take a few more years before we see them doing well on the roads. ",
+      "Expectation of autonomous driving: Training the existing models a little more would probably help. The rate at which we're progressing, we'll probably get there soon."
+    ]
+  },
+  "test02": {
+    "name": "G2x03v",
+    "description": "Here is the basic demographics of the people: The age is 39. The gender is male. A Japanese people currently lives in Japan. A Business management with PhD degree.\n\nThis person maintains a remarkably calm and even-tempered attitude, rarely flustered by stress. Socially active and lively, he enjoys being around people and engaging in stimulating environments. He embraces novelty and is quick to explore new ideas. He is also empathetic and warm towards others. However, he tends to be less structured in his planning and might act on impulse. When deciding to cross a street, he is likely to act with confidence and spontaneity, relying on his social and situational awareness, even if the moment isn't perfectly planned out.",
+    "decision_criteria": [
+      "Impression of autonomous driving: I love driving so much that I couldn't believe I would ever entrust it to an autonomous vehicle!",
+      "Use case of autonomous driving: When I need to park on the street, if it could automatically drive on the road, I wouldn't get ticketed lol.",
+      "Emotion of autonomous driving: Simply exciting.",
+      "Concern of autonomous driving: Frankly speaking, clarification of responsibility in the event of an accident occurring with Level 4/5 autonomous driving.",
+      "Expectation of autonomous driving: Expectations for safe driving on Japan's congested roads."
+    ]
+  },
+  "test03": {
+    "name": "G2x02v",
+    "description": "Here is the basic demographics of the people: The age is 46. The gender is male. A Japanese people currently lives in Japan. A Business Owner with PhD degree.\n\nThis individual handles stress well and remains composed even in tense environments. He values his privacy and typically keeps to himself or interacts with a tight-knit group. Curious and mentally agile, he enjoys exploring new ideas and unconventional solutions. He cares about the wellbeing of others and acts with integrity. Organized and reliable, he sets goals and sticks to them. When crossing the street, he is likely to observe carefully, make a calculated decision, and proceed steadily, ensuring safety without over-relying on others.",
+    "decision_criteria": [
+      "Impression of autonomous driving: I rode a automated Uber in the USA and felt positive towards that. I am hoping that most of the cars have autonomous driving feature to reduce the human error originated traffic accident.",
+      "Use case of autonomous driving: Yes I can. My car has lane keep assisting feature using the camera or lidar. I am strongly hope to have automated vehicle soon.",
+      "Emotion of autonomous driving: Happy and it will reduce our burden driving long distance.",
+      "Concern of autonomous driving: Software and hardware malfunction which leads to the traffic accident",
+      "Expectation of autonomous driving: Safety"
+    ]
+  },
+  "test04": {
+    "name": "G3x05g",
+    "description": "Here is the basic demographics of the people: The age is 31. The gender is female. A Chinese people currently lives in Japan for 3 years. Currently is pursuing the master degree.\n\nThis person stays composed under stress and is socially energetic, engaging actively with others. She’s eager for new experiences and driven by curiosity. Her approach is more self-focused, and she may prioritize her own goals over group consensus. Tends to act spontaneously and may not always plan thoroughly. When crossing a street, she might make swift, independent decisions based on the immediate situation, showing confidence even in uncertain conditions.",
+    "decision_criteria": [
+      "Impression of autonomous driving: I have never driven an autonomous vehicle. I’ve only seen them in online videos. I think having autonomous driving would be very convenient.",
+      "Use case of autonomous driving: On unfamiliar roads, I would use autonomous driving assistance.",
+      "Emotion of autonomous driving: It gives a sense of advanced technology and seems very convenient.",
+      "Concern of autonomous driving: However, I would be worried about the possibility of losing control.",
+      "Expectation of autonomous driving: I hope autonomous vehicles can improve their accuracy in road recognition."
+    ]
+  },
+  "test05": {
+    "name": "G2x04g",
+    "description": "Here is the basic demographics of the people: The age is 23. The gender is male. A Chinese people currently lives in Japan for 9 months. Currently is pursuing the bachelor degree.\n\nThis individual maintains emotional stability and is socially outgoing, often energized by group settings. He seeks novelty and thrives on creativity and innovation. He tends to prioritize personal perspectives and may come across as blunt or critical. With a spontaneous and flexible approach to life, he doesn't always rely on routines. When crossing a street, he is likely to act assertively and independently, possibly making quick judgments based on the situation without seeking external validation.",
+    "decision_criteria": [
+      "Impression of autonomous driving: Never have driven it before but heard a lot",
+      "Use case of autonomous driving: I will only trust it when there are few cars on the road",
+      "Emotion of autonomous driving: Worried",
+      "Concern of autonomous driving: How we judge the responsibility when the accident happens",
+      "Expectation of autonomous driving: Reliability"
+    ]
+  },
+  "test06": {
+    "name": "G3x01v",
+    "description": "Here is the basic demographics of the people: The age is 26. The gender is male. A Chinese people currently lives in Japan for 8 months. Currently is pursuing the PhD degree.\n\nHere is the basic demographics of the people: The age is 26. The gender is male. A Chinese people currently lives in Japan for 8 months. Currently is pursuing the PhD degree.\n\nThis individual tends to stay emotionally grounded and rarely lets external circumstances shake their calm. They prefer quiet environments and tend to avoid crowded or dynamic social scenes. While open to new ideas, they appreciate familiar routines. In social settings, they might prioritize their own perspective over others’ needs. They also show little interest in long-term planning or structured organization. When it comes to crossing the street, this person is likely to make decisions independently, without seeking social validation, and may act on impulse rather than careful planning—though still in a calm and composed manner.",
+    "decision_criteria": [
+      "Impression of autonomous driving: Although it is not so safety, autonomous driving is the future.",
+      "Use case of autonomous driving: If I can, I would use it carefully",
+      "Emotion of autonomous driving: Positive",
+      "Concern of autonomous driving: I think the autonomous driving is not so safety",
+      "Expectation of autonomous driving: improve the safety"
+    ]
+  },
+  "test07": {
+    "name": "G1x03v",
+    "description": "Here is the basic demographics of the people: The age is 36. The gender is male. A Austria people currently lives in Japan for 5 years. Currently is pursuing the master degree.\n\nRegarding the possible behavior when crossing a street: This person might act on emotion and heightened awareness of potential risks, making them likely to pause frequently or hesitate in unclear situations. However, their high energy and sociability may also make them willing to cross when others do, relying on collective momentum. They may seek novelty and alternative ways of crossing, or be more observant of signals or rules. Because they value cooperation and are generally dependable, they are likely to consider safety—both theirs and others’—before stepping into the street.",
+    "decision_criteria": [
+      "Impression of autonomous driving: I have rode the autonomous shuttle bus. does that count? My impression is that there is a lot of money going into it, which may be spent better elsewhere.",
+      "Use case of autonomous driving: I think there needs to be a differentiation made within what the word 'vehicle' refers to. I cannot imagine ever using automated cars, because from my point of view, they are meant  to address an issue that could be much better addressed with proper public transport in 9 out of 10 cases. I have used automated busses and trams, and subways. As someone outside the vehicle, I would greatly prefer the latter two, as the rails make their paths predictable and safe.",
+      "Emotion of autonomous driving: Again, differentiating between cars and other forms of vehicles, autonomous cars, from my point of view, are a symptom of political neglect and indifference towards proper urban and transit planning, and seeing how much money gets poured into their development is quite vexing. I am not worried about the cars themselves, but rather, what their existence would mean for the future of urban planning. Even more neglect and indifference? In short, the ramifications for other, much more efficient modes of transport (walking, cycling, tram, train...) are more concerning. Automated trams, busses etc I would be less concerned about from a planning standpoint, but from a social point of view. Not just because it means a lot of people losing their jobs, but also because it could result in diminished public safety, as drivers also act as onboard security. In an automated bus, there would be nobody there to prevent someone from robbing the passengers and escaping, for example. So in conclusion, I feel like autonomous vehicles try to solve a problem that doesn't really exist.",
+      "Concern of autonomous driving: Again, differentiating between cars and other forms of vehicles, autonomous cars, from my point of view, are a symptom of political neglect and indifference towards proper urban and transit planning, and seeing how much money gets poured into their development is quite vexing. I am not worried about the cars themselves, but rather, what their existence would mean for the future of urban planning. Even more neglect and indifference? In short, the ramifications for other, much more efficient modes of transport (walking, cycling, tram, train...) are more concerning. Automated trams, busses etc I would be less concerned about from a planning standpoint, but from a social point of view. Not just because it means a lot of people losing their jobs, but also because it could result in diminished public safety, as drivers also act as onboard security. In an automated bus, there would be nobody there to prevent someone from robbing the passengers and escaping, for example. So in conclusion, I feel like autonomous vehicles try to solve a problem that doesn't really exist.",
+      "Expectation of autonomous driving: The actual use-case. As stated above, I think this is not a technical question, but a political and social question."
+    ]
+  },
+  "test08": {
+    "name": "G4x05g",
+    "description": "Here is the basic demographics of the people: The age is 35. The gender is male. A Japanese people currently lives in Japan. Currently is pursuing the PhD.\n\nRegarding the possible behavior when crossing a street: This person is likely to approach the crossing with steady awareness and confidence. Comfortable in social settings, they may follow group behavior if it aligns with logic. Their curiosity and flexibility could make them adaptable to both traditional and new traffic conditions. They are mindful of others, so would likely wait for the right moment to cross, taking shared safety into account. With a clear sense of structure and reliability, they’re inclined to follow traffic rules and respond well to organized systems like signals or crosswalks.",
+    "decision_criteria": [
+      "Impression of autonomous driving: I have been in a Tesla car in the US (the Uber driver was there, but he wasn't steering). It felt strange that the steering wheel was automatically rotating, but I think it was just because I had never seen that before. I beleive that if everyone uses autonomous driving, overall traffic safety would increase.",
+      "Use case of autonomous driving: I can imagine it. If I live in suburb, I'd love to use it for everyday use: driving to an office, supermarkets or restaurants.",
+      "Emotion of autonomous driving: I think I will feel worried at first. After getting used to it, I think I will start feeling comfortable.",
+      "Concern of autonomous driving: I would feel more sleepy if I don't have to drive on my own. But people get sleepy even when they're driving and autonomous vehicles might be safer from that perspective.",
+      "Expectation of autonomous driving: No errors, Ability to deal with emergencies (e.g., people or animals running out into a street, a troublesome car tailgating me), Ability to wake drivers up"
+    ]
+  },
+  "test09": {
+    "name": "G2x05g",
+    "description": "Here is the basic demographics of the people: The age is 27. The gender is male. A Chinese people currently lives in Japan for 3 years. Currently is pursuing the master degree.\n\nRegarding the possible behavior when crossing a street: Likely to remain calm and make decisions without panic, this individual is socially confident and comfortable in active environments. While they enjoy exploring different options and scenarios, they prioritize their own judgment and goals over group behavior. When crossing, they may rely on their own quick assessments of the environment rather than waiting for signals or peer actions. Despite being task-oriented and goal-driven, they may not exhibit much concern for others' needs in the moment, unless it directly affects their path.",
+    "decision_criteria": [
+      "Impression of autonomous driving: My first impression of autonomous driving is that it is an innovative and transformative technology.",
+      "Use case of autonomous driving: I can imagine using autonomous vehicles for daily commuting, especially in urban areas with heavy traffic. They could also be convenient for late-night rides or long-distance travel when I want to rest instead of driving.",
+      "Emotion of autonomous driving: Using an automated vehicle makes me feel curious and optimistic. I believe it could reduce stress from driving and improve safety.",
+      "Concern of autonomous driving: I sometimes worry about technical failures, cybersecurity, and how the vehicle would handle unexpected situations like sudden road hazards.",
+      "Expectation of autonomous driving: I hope automated vehicles will continue to improve in safety, reliability, and adaptability to various road conditions, while becoming more affordable and widely accessible."
+    ]
+  },
+  "test10": {
+    "name": "G4x04g",
+    "description": "Here is the basic demographics of the people: The age is 25. The gender is female. A Chinese people currently lives in Japan for 3 years. The education background is History. Currently is pursuing the bachelor degree.\n\nRegarding the possible behavior when crossing a street: This person may react strongly to environmental changes or perceived risks, making them cautious or hesitant in uncertain situations. At the same time, their energetic and spontaneous nature might lead them to cross quickly if they feel excited or curious, especially in unfamiliar or stimulating scenarios. Since they prioritize personal experience over strict rules, they might not always wait for conventional signals, particularly if others are crossing. Their decisions may be more intuitive than methodical, and influenced by immediate emotions or surroundings.",
+    "decision_criteria": [
+      "Impression of autonomous driving: My father works in a related field in China, which I personally find very fresh and high-tech.",
+      "Use case of autonomous driving: Just to enjoy it.",
+      "Emotion of autonomous driving: It will make me feel very fresh and interesting, and such experiences are currently rare.",
+      "Concern of autonomous driving: I am not sure if the content of the test is safe, and the content I need to operate makes me feel uneasy.",
+      "Expectation of autonomous driving: I hope it looks comfortable and relaxing."
+    ]
+  },
+  "test11": {
+    "name": "G3x04g",
+    "description": "Here is the basic demographics of the people: The age is 24. The gender is male. A Chinese people currently lives in Japan for 2 years. Currently is pursuing the bachelor degree.\n\nRegarding the possible behavior when crossing a street: This person is likely to make confident and goal-directed choices. While open to novelty and quick to adapt, they may prioritize efficiency and act decisively. Socially inclined, they may align their movements with group dynamics but will still assess safety independently. Their calmness under pressure supports a composed crossing style, though they may not always wait for others if they believe the opportunity is safe.",
+    "decision_criteria": [
+      "Impression of autonomous driving: Self-driving is something I thought was cool when I was a kid, and now that it is actually happening, I am really excited.",
+      "Use case of autonomous driving: I would use them to commute to work or school, which would save time and reduce stress from traffic. I could also use them for grocery shopping or visiting friends. Automated vehicles would make travel more convenient and safer.",
+      "Emotion of autonomous driving: happy",
+      "Concern of autonomous driving: I am worried that no one will be held responsible after a car accident.",
+      "Expectation of autonomous driving: Reduce the accident rate"
+    ]
+  },
+  "test12": {
+    "name": "G4x01v",
+    "description": "Here is the basic demographics of the people: The age is 24. The gender is male. A Indian people currently lives in Japan for 2 years. Currently is pursuing the master degree of engineering.\n\nRegarding the possible behavior when crossing a street: Calm and observant, this individual would approach crossing with balanced awareness. While confident and socially aware, they are unlikely to take unnecessary risks. Open to new experiences, they may explore different options but still follow rules and respect shared safety. Their cooperative nature makes them more likely to follow pedestrian signals or group movements while maintaining awareness of their surroundings.",
+    "decision_criteria": [
+      "Impression of autonomous driving: A good invention for multitasking on the go.",
+      "Use case of autonomous driving: I imagine using it while commuting.",
+      "Emotion of autonomous driving: There are moments when the road's instability causes worry.",
+      "Concern of autonomous driving: Nope",
+      "Expectation of autonomous driving: More robust system"
+    ]
+  },
+  "test13": {
+    "name": "G1x05v",
+    "description": "Here is the basic demographics of the people: The age is 25. The gender is male. A Japanese people currently lives in Japan. Currently is pursuing the master degree.\n\nRegarding the possible behavior when crossing a street: This individual is likely to cross only after deliberate observation. They are socially engaged, yet their natural sense of responsibility may lead them to wait for clear signals or safe cues. Curiosity may make them notice subtle traffic changes, but safety remains their guiding principle. Their empathy and organization would encourage safe, rule-following behavior in crossing scenarios.",
+    "decision_criteria": [
+      "Impression of autonomous driving: I know the concept of autonomous driving, but I have never seen it in daily life. Since I can not drive a car, I look forward to a future where it is more integrated into our lives.",
+      "Use case of autonomous driving: I think strong policy guidance would be required to replace conventional vehicles with automated ones. Personally, I would like to use them for traveling.",
+      "Emotion of autonomous driving: Although I have never used an automated vehicle, I feel curious rather than anxious. I find the technology fascinating, and I think it has great potential for real-world applications.",
+      "Concern of autonomous driving: One concern I have is the cost. I hope automated vehicles will be affordable enough for daily use.",
+      "Expectation of autonomous driving: I hope that automated vehicles will be designed to prioritize safety above all else — even if it means driving more slowly. My strong expectation is that they should never cause injury to people around them, under any circumstances."
+    ]
+  },
+  "test14": {
+    "name": "G4x03v",
+    "description": "Here is the basic demographics of the people: The age is 23. The gender is male. A Algeria people currently lives in Japan for 2 months. Currently is pursuing the master degree.\n\nRegarding the possible behavior when crossing a street: Sociable and adaptive, this person may follow others across if the group leads, but with a sense of calm confidence. Their curiosity may lead them to observe and interpret different crossing scenarios, while their structured mindset ensures they don’t act impulsively. Cooperative and emotionally stable, they will likely take a balanced and mindful approach to street-crossing.",
+    "decision_criteria": [
+      "Impression of autonomous driving: I have never been in a self driving vehicul , but from what I have seen , it looks like a really pronising technology and I beielive it will be the main way of transportation in the future.",
+      "Use case of autonomous driving: I would use automated vehilcels for getting around if developed enough to a point where it can be safely completly autonomous.",
+      "Emotion of autonomous driving: happy and hopefull",
+      "Concern of autonomous driving: there is the fear if it malfunctioning which can be quite dangerous but with enough precautions that should never happen",
+      "Expectation of autonomous driving: just it's ability to be completly safely autonomous"
+    ]
+  },
+  "test15": {
+    "name": "G3x02g",
+    "description": "Here is the basic demographics of the people: The age is 27. The gender is female. A Chinese people currently lives in Japan for 5 years. Mostly get the master degree and become a PhD student later.\n\nRegarding the possible behavior when crossing a street: While composed and self-assured, this person may not prioritize others' safety unless directly affected. Their independent thinking might make them less reliant on conventional cues. They are likely to make fast decisions if they feel confident, but their approach remains calculated and based on personal logic rather than group consensus. Their motivation is often driven by efficiency and control.",
+    "decision_criteria": [
+      "Impression of autonomous driving: Risky, and not that reliable.",
+      "Use case of autonomous driving: If I have to use the auto vehicle, I prefer the one that can assist human driving, 51% decision by human intelligence.",
+      "Emotion of autonomous driving: Worried",
+      "Concern of autonomous driving: If it gets out of control in a dynamic environment.",
+      "Expectation of autonomous driving: If it can negotiate with me before important decisions when driving."
+    ]
+  },
+  "test16": {
+    "name": "G3x03g",
+    "description": "Here is the basic demographics of the people: The age is 21. The gender is male. A Chinese people currently lives in Japan for 3 years. Currently is pursuing the bachelor degree.\n\nRegarding the possible behavior when crossing a street: This individual may experience heightened awareness or stress in ambiguous situations, making them more reactive to traffic or signals. However, their outgoing nature might lead them to follow others quickly once they perceive a window of opportunity. Driven and imaginative, they might respond creatively in unexpected scenarios, though they may act more for personal gain than shared safety.",
+    "decision_criteria": [
+      "Impression of autonomous driving: I feel that autonomous driving has a lot of potential. I've never been in one myself, but I'd be willing to give it a try.",
+      "Use case of autonomous driving: Maybe I will choose autonomous driving as my main form of daily transportation",
+      "Emotion of autonomous driving: I would probably feel curious and excited.",
+      "Concern of autonomous driving: safety",
+      "Expectation of autonomous driving: I would want them to have a greater ability to communicate externally, for instance, an indicator light to alert others that the vehicle is in self-driving mode."
+    ]
+  },
+  "test18": {
+    "name": "G4x02v",
+    "description": "Here is the basic demographics of the people: The age is 24. The gender is male. A Indian people currently lives in Japan for 2 years. Currently is pursuing the master degree of engineering.\n\nRegarding the possible behavior when crossing a street: A sociable yet composed individual, they are inclined to weigh risks carefully before making a move. Their thoughtful and flexible mindset helps them adapt to unexpected situations, while their conscientious nature ensures they follow safe and clear signals. They are not prone to risky behavior and value order and reliability in public spaces.",
+    "decision_criteria": [
+      "Impression of autonomous driving: I think autonomous driving is interesting and futuristic. I’ve seen some videos and read a bit about it online, but I’ve never seen one in person.",
+      "Use case of autonomous driving: Yes, I can imagine using one, especially for commuting or long trips. It would be nice to relax or do something else while the car drives.",
+      "Emotion of autonomous driving: It makes me feel a bit curious and excited",
+      "Concern of autonomous driving: I’m not sure how safe it is. I worry about how the car would react in unexpected situations.",
+      "Expectation of autonomous driving: I hope they can keep improving safety and make it easier for people to trust and use them in real life."
+    ]
+  },
+  "test19": {
+    "name": "G2x01v",
+    "description": "Here is the basic demographics of the people: The age is 25. The gender is male. A Indonesia people currently lives in Japan for 10 months. Currently is pursuing the master degree.\n\nRegarding the possible behavior when crossing a street: This person combines level-headed decision-making with a touch of independence. Though socially active, they may assess traffic conditions and cross alone if deemed safe. Their methodical nature leads them to observe carefully, though they are less likely to wait on others' actions if it delays their own goals. Novel environments may spark interest, but they remain mostly grounded in logic and self-assurance.",
+    "decision_criteria": [
+      "Impression of autonomous driving: Interested in using it as it is advanced, but I never got the chance to ride it",
+      "Use case of autonomous driving: Not as a replacement for a commute, but I would consider it for a long trip, especially to remote places where only a car can pass.",
+      "Emotion of autonomous driving: Happy, I don't have to drive anymore.",
+      "Concern of autonomous driving: Traffic accident, who is responsible if that happens",
+      "Expectation of autonomous driving: I hope there will be more AV taxis in real life, as Japan's population is declining; I think the number of taxi drivers would decrease too."
+    ]
+  },
+  "test20": {
+    "name": "G3x06g",
+    "description": "Here is the basic demographics of the people: The age is 31. The gender is male. A Chinese people currently lives in Japan for 7 years. Currently is pursuing the master degree.\n\nRegarding the possible behavior when crossing a street: Calm under pressure and grounded in practicality, this individual is likely to follow structured procedures like signals or crosswalks. Their mix of curiosity and self-discipline helps them react rationally to novel conditions. They may not be overly concerned with group behavior but will carefully consider personal safety and crossing viability before acting.",
+    "decision_criteria": [
+      "Impression of autonomous driving: The first time I rode in an automated vehicle was a self-driving shuttle bus at kashiwa campus. I felt that it could only handle simple road conditions, and the technology still has a lot of room for improvement.",
+      "Use case of autonomous driving: Yes, I can imagine using automated vehicles. I would use them when driving on straight roads or under simple traffic conditions.",
+      "Emotion of autonomous driving: Using an automated vehicle makes me feel more relaxed physically, but also a bit uneasy. It’s a strange feeling not being in full control of my own safety.",
+      "Concern of autonomous driving: I do have concerns about the safety of automated vehicles, especially in unexpected situations where quick human judgment might be needed.",
+      "Expectation of autonomous driving: I hope automated vehicles will get better at dealing with unexpected and complicated situations on the road."
+    ]
+  },
+  "test21": {
+    "name": "G1x02v",
+    "description": "Here is the basic demographics of the people: The age is 28. The gender is male. A Indian people currently lives in Japan for 2.5 years. Currently is pursuing the master degree of Technology.\n\nRegarding the possible behavior when crossing a street: Balanced in temperament and social engagement, this person makes crossing decisions based on both internal assessment and environmental cues. While not overly impulsive, they may take calculated risks if the context feels safe. Their creativity may help in navigating unconventional street layouts, but they remain careful not to compromise safety for convenience.",
+    "decision_criteria": [
+      "Impression of autonomous driving: I believe autonomous driving is the future, although I believe there still needs to be more development before it can be commonly accepted. I have traveled in autonomous bus and enjoyed the experience.",
+      "Use case of autonomous driving: I can believe using it in the future when it's safe and affordable. I believe using autonomous vehicles allows us to save time during daily commute. I would use it in a practical way so that I can focus on other tasks while driving.",
+      "Emotion of autonomous driving: I feel excited",
+      "Concern of autonomous driving: Currently, although the development is fast I still believe it is not a stage where it can be widely accepted. I believe auxiliary technologies and regulations are necessary for safe use in the future.",
+      "Expectation of autonomous driving: I believe the technology improves further so that we can have general intelligence which can drive and control the automated systems including autonomous vehicles, which improve overall safety and performance."
+    ]
+  }
+}
