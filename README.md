@@ -1,6 +1,4 @@
-# PersonaVLM
-
-## Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI
+# [CHI2026] Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI
 
 Accepted at CHI 2026 · Barcelona, Spain
 
